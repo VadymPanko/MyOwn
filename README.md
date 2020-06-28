@@ -1,3 +1,3 @@
 # MyOwn
-https://github.com/VadymPanko/MyOwn
-https://github.com/VadymPanko/MyOwn/pull/1/files
+- [Preview](https://github.com/VadymPanko/MyOwn)
+- [Pull Request](https://github.com/VadymPanko/MyOwn/pull/1/files)
